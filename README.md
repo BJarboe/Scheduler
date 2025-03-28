@@ -1,5 +1,5 @@
 # Process Scheduler
-
+[See example](#example)
 ## Overview
 This project simulates process scheduling using CPU and IO bursts. It supports two scheduling strategies:
 - **First Come First Serve (FCFS)**
